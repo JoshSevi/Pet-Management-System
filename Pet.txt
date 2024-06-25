@@ -1,0 +1,4 @@
+100#john#Male#Dog#Persian###JANUARY#1#1971#52#
+101#mark#Male#Dog#Persian###JANUARY#1#1971#52#
+102#Chris#Male#Dog#Persian###JANUARY#1#1971#52#
+103#paul#Male#Dog#Persian###JANUARY#1#1971#52#
